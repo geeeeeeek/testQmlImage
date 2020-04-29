@@ -1,0 +1,11 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="0.jpg">C:/Users/86176/AppData/Local/Temp/bokeccdoc/781A6E17256948509C33DC5901307461/2E4FE0D0037E02429C33DC5901307461/drawingBoard/0.jpg</file>
+        <file alias="1.jpg">C:/Users/86176/AppData/Local/Temp/bokeccdoc/781A6E17256948509C33DC5901307461/2E4FE0D0037E02429C33DC5901307461/drawingBoard/1.jpg</file>
+        <file>no_provider_image_show.qml</file>
+        <file>no_provider_canvas_show.qml</file>
+        <file>provider_image_show.qml</file>
+        <file>provider_canvas_show.qml</file>
+    </qresource>
+</RCC>
